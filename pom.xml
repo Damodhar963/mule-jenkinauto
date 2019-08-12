@@ -23,7 +23,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
 <configuration>
 <copyToAppsDirectory>true</copyToAppsDirectory>
 </configuration>
-</plugin>
+</plugin> 
 <plugin>
 <groupId>org.codehaus.mojo</groupId>
 <artifactId>build-helper-maven-plugin</artifactId>
